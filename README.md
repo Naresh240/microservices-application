@@ -1,4 +1,4 @@
-# microservices-application
+# Micro Services - Application
   ![image](https://user-images.githubusercontent.com/58024415/125564175-a02dcae2-031a-47bf-9e3e-823318b47fb5.png)
 # Application Architecture
   The application consists of 6 different Microservices
